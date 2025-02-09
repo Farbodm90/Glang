@@ -1,0 +1,2 @@
+# Glang
+A programming lang
